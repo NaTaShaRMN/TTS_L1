@@ -5,6 +5,11 @@
     padding: 0px;
 }
 
+.container {
+    max-width: 1304px;
+    margin: 1px auto;
+}
+
 .list {}
 
 .list li {
