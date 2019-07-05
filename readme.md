@@ -16,5 +16,6 @@ Clone về và chạy :))
 ## To do:
 * Sử dụng grid-template để làm responsive
 * Xây dựng các giao diện website hoàn thiện
+* Set các chức năng khác cho trang web
 # Credit
 * [fontawesome](https://fontawesome.com/)
